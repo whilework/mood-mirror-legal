@@ -69,4 +69,4 @@ You may stop using Mood Mirror at any time. We may suspend or terminate access t
 We may update these Terms from time to time. If we make material changes, we will update the "Last updated" date and, where appropriate, provide additional notice.
 ## Contact
 
-questions@moodmirror.app
+mood.mirror.bot@gmail.com
