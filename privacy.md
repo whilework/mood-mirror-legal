@@ -6,7 +6,7 @@ Mood Mirror is designed to keep your personal mood data on your device. This Pri
 
 ## Who we are
 
-Mood Mirror is a private mood journaling and reflection app. If you have questions about this Privacy Policy, contact us at questions@moodmirror.app.
+Mood Mirror is a private mood journaling and reflection app. If you have questions about this Privacy Policy, contact us at mood.mirror.bot@gmail.com.
 
 ## Data stored on your device
 
@@ -55,7 +55,7 @@ Deleting local app data does not cancel a subscription or delete purchase record
 
 ## Children
 
-Mood Mirror is not directed to children under 13. If you believe a child has provided personal information through the app, contact us at questions@moodmirror.app.
+Mood Mirror is not directed to children under 13. If you believe a child has provided personal information through the app, contact us at mood.mirror.bot@gmail.com.
 
 ## Security
 
@@ -69,4 +69,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 ## Contact
 
-questions@moodmirror.app
+mood.mirror.bot@gmail.com
