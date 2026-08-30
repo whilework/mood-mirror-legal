@@ -1,31 +1,31 @@
-Delete Mood Mirror Data Without Deleting Your Account
-You can delete your Mood Mirror data without deleting your account.
-If you still have access to the app, open Mood Mirror and go to:
+# Delete Etchloom Data Without Deleting Your Account
 
-Settings → Data → Delete local data
+You can delete your Etchloom data while keeping your account active.
 
-If cloud save is enabled, you can also delete the cloud copy linked to your account:
+## Delete data in the app
 
-Settings → Danger zone → Delete cloud data
+To delete the copy stored on your current device:
 
-This lets you remove your mood archive while keeping your Mood Mirror account active.
-Data that can be deleted includes:
-mood entries;
-tags;
-notes;
-context answers;
-local app settings;
-cloud mood backup data linked to your account.
+1. Open **Settings**.
+2. Scroll to **Danger zone**.
+3. Select **Delete local data** and confirm.
 
-Deleting your Mood Mirror data does not delete your account and does not cancel an active Google Play or App Store subscription. Subscriptions are managed by Google Play or Apple. To stop future charges, cancel your subscription in your store account settings.
-If you cannot access the app, you can request data deletion by email.
+If you are signed in, you can separately delete the cloud copy attached to your account:
 
-Email: mood.mirror.bot@gmail.com
-Subject: Delete Mood Mirror data
+1. Open **Settings**.
+2. Scroll to **Danger zone**.
+3. Select **Delete cloud data** and confirm.
 
-Please send the request from the email address you used to sign in to Mood Mirror, or include that email in your message. Do not include mood notes, journal entries, or other private mood content in your email.
-We aim to process data deletion requests within 30 days after we can verify the request. We may contact you if we need additional information to confirm account ownership.
+Data that can be deleted includes mood entries, tags, notes, context answers, Journal pages, local app settings, and cloud archive data linked to your account. Minimal deletion markers may be retained to prevent deleted entries from reappearing during later synchronization.
 
-Contact
-For data deletion requests or privacy questions, email:
-mood.mirror.bot@gmail.com
+## Request deletion by email
+
+If you cannot access the app, email [mood.mirror.bot@gmail.com](mailto:mood.mirror.bot@gmail.com) with the subject **Delete my Etchloom data**.
+
+Send the request from the email address you used to sign in, or include that email in your message. Do not include mood notes, Journal entries, or other private archive content. We may contact you if we need additional information to verify account ownership.
+
+We aim to complete verified email deletion requests within 30 days.
+
+Deleting Etchloom data does not delete your account and does not automatically cancel an active Google Play or Apple App Store subscription. To stop future charges, cancel the subscription in the store account where you purchased it.
+
+For more information, see the [Privacy Policy](privacy) or contact mood.mirror.bot@gmail.com.

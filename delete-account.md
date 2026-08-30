@@ -1,24 +1,29 @@
-Delete Your Mood Mirror Account
-You can request deletion of your Mood Mirror account and the cloud data associated with it.
-If you still have access to the app, you can delete your account directly inside Mood Mirror:
+# Delete Your Etchloom Account
 
-Settings → Danger zone → Delete account
+You can delete your Etchloom account and the cloud data associated with it.
 
-If you cannot access the app, you can request deletion by email.
+## Delete your account in the app
 
-Email: mood.mirror.bot@gmail.com
-Subject: Delete Mood Mirror account
+If you still have access to Etchloom:
 
-Please send the request from the email address you used to sign in to Mood Mirror, or include that email in your message. Do not include mood notes, journal entries, or other private mood content in your email.
+1. Open **Settings**.
+2. Scroll to **Danger zone**.
+3. Select **Delete account** and confirm.
 
-When your account is deleted, we delete:
-your Mood Mirror account identity;
-cloud mood backup data linked to that account;
-account-related app data stored by Mood Mirror.
-Deleting your Mood Mirror account does not automatically cancel an active Google Play or App Store subscription. Subscriptions are managed by Google Play or Apple. To stop future charges, cancel your subscription in your store account settings.
-Some limited records may be retained if required for legal, security, fraud prevention, billing, or platform compliance reasons. Purchase records may also remain with Google Play, Apple, RevenueCat, or other payment providers according to their own policies.
-We aim to process account deletion requests within 30 days after we can verify the request. We may contact you if we need additional information to confirm account ownership.
+This deletes your Etchloom account identity, the cloud archive attached to it, and related account data controlled by Etchloom. Local app data on that device is also cleared.
 
-Contact
-For account deletion requests or privacy questions, email:
-mood.mirror.bot@gmail.com
+## Request deletion by email
+
+If you cannot access the in-app deletion control, email [mood.mirror.bot@gmail.com](mailto:mood.mirror.bot@gmail.com) with the subject **Delete my Etchloom account**.
+
+Send the request from the email address you used to sign in, or include that email in your message. Do not include mood notes, Journal entries, or other private archive content. We may contact you if we need additional information to verify account ownership.
+
+We aim to complete verified email deletion requests within 30 days.
+
+## What is not deleted automatically
+
+Deleting your Etchloom account does not automatically cancel an active Google Play or Apple App Store subscription. To stop future charges, cancel the subscription in the store account where you purchased it.
+
+Apple, Google, RevenueCat, and other service providers may retain transaction or security records under their own policies or where required by law.
+
+For more information, see the [Privacy Policy](privacy) or contact mood.mirror.bot@gmail.com.
